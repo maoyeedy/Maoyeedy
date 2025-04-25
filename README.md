@@ -2,7 +2,7 @@
 
 <!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&show_icons=true&rank_icon=github) -->
 
-![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&hide_rank=true&text_bold=false)
+![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maoyeedy&langs_count=6&layout=compact) -->
 
