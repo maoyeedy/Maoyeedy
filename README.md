@@ -3,12 +3,11 @@
 <!-- <img src="metrics.svg" width="50%" > -->
 
 <a href="">
-  <img height=200 align="center" src="metrics.plugin.isocalendar.half.svg" />
+  <img  src="metrics.plugin.isocalendar.half.svg" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true" />
 </a>
-
 
 <table>
   <tr>
