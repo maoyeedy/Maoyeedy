@@ -1,5 +1,7 @@
 <!-- ## Here's Yidi! -->
 
+I'm Yidi, a student at Aalto University Game Department.
+
 <!-- <img src="metrics.svg" width="50%" > -->
 <table>
   <tr>
