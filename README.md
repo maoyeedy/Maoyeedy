@@ -2,6 +2,10 @@
 
 <!-- <img src="metrics.svg" width="50%" > -->
 
+<img src="metrics.plugin.isocalendar.half.svg" width="50%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true" width="50%" align="right"/>
+
+
 <table>
   <tr>
     <td>
@@ -11,7 +15,7 @@
     </td>
     <td>
       <a href="">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true&transparent=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true" width="100%"/>
       </a>
     </td>
   </tr>
