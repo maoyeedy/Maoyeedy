@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics Calender
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -7,7 +7,7 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  metrics-calendar-half:
+  calendar-half:
     runs-on: ubuntu-latest
     environment:
       name: production
@@ -22,7 +22,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-  metrics-calendar-full:
+  calendar-full:
     runs-on: ubuntu-latest
     environment:
       name: production
