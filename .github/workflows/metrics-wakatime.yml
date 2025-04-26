@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # push: {branches: ["master", "main"]}
 jobs:
   wakatime:
     runs-on: ubuntu-latest
@@ -25,4 +25,4 @@ jobs:
           plugin_wakatime_url: https://www.maoyeedy.com/
           plugin_wakatime_user: Yidi
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
+
