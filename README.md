@@ -11,6 +11,7 @@
     <td>
       <a href="">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true" width="100%"/>
+      <!-- <img src="metrics.plugin.wakatime.svg" width="100%"/> -->
       </a>
     </td>
   </tr>
