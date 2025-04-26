@@ -1,10 +1,8 @@
-## Here's Yidi!
+<!-- ## Here's Yidi! -->
 
-![Metrics](github-metrics.svg)
-<!-- <img src="github-metrics.svg" alt="Metrics" width="100%"> -->
-<!-- <img src="github-metrics.svg" alt="Metrics" width="50%" align="right" /> -->
-
-![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&layout=compact&hide=unknown,reg,asmdef)
+<!-- <img src="metrics.svg" width="50%" > -->
+<img src="metrics.plugin.isocalendar.half.svg" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true" width="100%" >
 
 <!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
 
@@ -17,3 +15,14 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
+
+<!-- <table>
+  <tr>
+    <td>
+      <img src="metrics.svg" width="100%"/>
+    </td>
+    <td>
+      <img src="metrics.plugin.isocalendar.half.svg" width="100%"/>
+    </td>
+  </tr>
+</table> -->
