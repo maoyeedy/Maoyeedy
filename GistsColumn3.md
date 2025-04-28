@@ -1,5 +1,7 @@
 <table>
     <tr>
+    </tr>
+    <tr>
         <td><b>Editor Enhancement</b></td>
         <td></td>
         <td><b>Utility</b></td>
