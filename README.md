@@ -32,6 +32,12 @@ Hi I'm Yidi, a student at Aalto University Game Department.
             </a>
         </td>
     </tr>
+</table>
+
+<table>
+     <tr>
+        <td colspan="4"><h1>Gists</h1></td>
+    </tr>
      <tr>
         <td><b>Editor Enhancement</b></td>
         <td></td>
