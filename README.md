@@ -1,6 +1,8 @@
 <!-- ## Here's Yidi! -->
 
-👋 Hi I'm Yidi, a student at Aalto University Game Department.
+Hi I'm Yidi, a student at Aalto University Game Department.
+
+[Here's my recent works overview!](https://maoyeedy.notion.site/Yidi-Mao-recent-works-overview-1e2ff91211db80849514c33400ccf5c7?pvs=4)
 
 <!-- <img src="metrics.svg" width="50%" > -->
 <table>
