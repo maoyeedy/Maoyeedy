@@ -1,42 +1,8 @@
-<!-- ## Here's Yidi! -->
-
-Hi I'm Yidi, a student at Aalto University Game Department.
-
-[Here's my recent works overview!](https://maoyeedy.notion.site/Yidi-Mao-recent-works-overview-1e2ff91211db80849514c33400ccf5c7?pvs=4)
-
-
-<!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
-<!-- <img src="metrics.svg" width="50%" > -->
-
-<!-- ## Here's Yidi! -->
-
-Hi I'm Yidi, a student at Aalto University Game Department.
-
-[Here's my recent works overview!](https://maoyeedy.notion.site/Yidi-Mao-recent-works-overview-1e2ff91211db80849514c33400ccf5c7?pvs=4)
-
-
-<!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
-<!-- <img src="metrics.svg" width="50%" > -->
 <table>
     <tr>
         <td>
-            <a href="">
-                <img src="metrics.plugin.isocalendar.half.svg" alt="Metrics" />
-            </a>
+            <b>Editor Enhancement</b>
         </td>
-        <td>
-            <a href="">
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true"
-                    alt="Wakapi" />
-                <!-- <img src="metrics.plugin.wakatime.svg" alt="Wakapi"/> -->
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <!-- <td colspan="4"><b>Editor Enhancement</b></td> -->
-        <td><b>Editor Enhancement</b></td>
-        <td></td>
-        <td><b>Utility</b></td>
         <td></td>
     </tr>
     <tr>
@@ -52,6 +18,12 @@ Hi I'm Yidi, a student at Aalto University Game Department.
                     alt="Scene Autosave" />
             </a>
         </td>
+    </tr>
+    <tr>
+        <td> <b>Utility</b> </td>
+        <td></td>
+    </tr>
+    <tr>
         <td>
             <a href="https://gist.github.com/Maoyeedy/a8d66b314dfe671a6a9336eb4a2d15ef">
                 <img src="https://github-readme-stats.vercel.app/api/gist?id=a8d66b314dfe671a6a9336eb4a2d15ef&hide_border=true"
@@ -65,8 +37,11 @@ Hi I'm Yidi, a student at Aalto University Game Department.
             </a>
         </td>
     </tr>
-    <tr>
-        <td colspan="4"><b>Asset Processing</b></td>
+    <!-- <tr>
+        <td>
+            <b>Asset Processing</b>
+        </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -81,6 +56,14 @@ Hi I'm Yidi, a student at Aalto University Game Department.
                     alt="Mixamo Renamer" />
             </a>
         </td>
+    </tr> -->
+    <tr>
+        <td>
+            <b>Userscripts</b>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
         <td>
             <a href="https://gist.github.com/Maoyeedy/f2e480747cb9a583de471cae4bf2bbf5">
                 <img src="https://github-readme-stats.vercel.app/api/gist?id=f2e480747cb9a583de471cae4bf2bbf5&hide_border=true"
