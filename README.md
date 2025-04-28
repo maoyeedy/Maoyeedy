@@ -36,7 +36,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
 
 <table>
      <tr>
-        <td colspan="4"><h1>Gists</h1></td>
+        <td colspan="4"><h3>Gists</h1></td>
     </tr>
      <tr>
         <td><b>Editor Enhancement</b></td>
