@@ -10,6 +10,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
         <td width=50%>
             <a href="https://raw.githubusercontent.com/Maoyeedy/Maoyeedy/refs/heads/master/metrics.svg">
                 <img src="metrics.plugin.isocalendar.half.svg" alt="Metrics" />
+                <!-- <img src="metrics.plugin.isocalendar.full.svg" alt="Metrics" /> -->
             </a>
         </td>
         <td width=50%>
