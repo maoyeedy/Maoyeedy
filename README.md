@@ -47,7 +47,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
         </td>
     </tr>
     <tr>
-        <td> <b>Utility</b> </td>
+        <td> <b>Utilities</b> </td>
         <td></td>
     </tr>
     <tr>
