@@ -8,12 +8,12 @@ Hi I'm Yidi, a student at Aalto University Game Department.
 <table>
     <tr>
         <td width=50%>
-            <a href="metrics.svg">
+            <a href="https://raw.githubusercontent.com/Maoyeedy/Maoyeedy/refs/heads/master/metrics.svg">
                 <img src="metrics.plugin.isocalendar.half.svg" alt="Metrics" />
             </a>
         </td>
         <td width=50%>
-            <a href="metrics.plugin.wakatime.svg">
+            <a href="https://raw.githubusercontent.com/Maoyeedy/Maoyeedy/refs/heads/master/metrics.plugin.wakatime.svg">
                 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true"
                     alt="Wakapi" />
                 <!-- <img src="metrics.plugin.wakatime.svg" alt="Wakapi"/> -->
