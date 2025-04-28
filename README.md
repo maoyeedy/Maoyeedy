@@ -1,31 +1,19 @@
-<!-- ## Here's Yidi! -->
-
 Hi I'm Yidi, a student at Aalto University Game Department.
 
 [Here's my recent works overview!](https://maoyeedy.notion.site/Yidi-Mao-recent-works-overview-1e2ff91211db80849514c33400ccf5c7?pvs=4)
 
-
 <!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
 <!-- <img src="metrics.svg" width="50%" > -->
 
-<!-- ## Here's Yidi! -->
-
-Hi I'm Yidi, a student at Aalto University Game Department.
-
-[Here's my recent works overview!](https://maoyeedy.notion.site/Yidi-Mao-recent-works-overview-1e2ff91211db80849514c33400ccf5c7?pvs=4)
-
-
-<!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
-<!-- <img src="metrics.svg" width="50%" > -->
 <table>
     <tr>
-        <td>
-            <a href="">
+        <td width=50%>
+            <a href="metrics.svg">
                 <img src="metrics.plugin.isocalendar.half.svg" alt="Metrics" />
             </a>
         </td>
-        <td>
-            <a href="">
+        <td width=50%>
+            <a href="metrics.plugin.wakatime.svg">
                 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yidi&api_domain=www.maoyeedy.com&custom_title=Wakapi%20Weekly%20Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true"
                     alt="Wakapi" />
                 <!-- <img src="metrics.plugin.wakatime.svg" alt="Wakapi"/> -->
