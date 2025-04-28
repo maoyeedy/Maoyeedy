@@ -40,7 +40,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
   </tr> -->
 </table>
 
-<a href="https://gist.github.com/Maoyeedy/0b372fc60cbe6a9f138841946652d30c">
+<!-- <a href="https://gist.github.com/Maoyeedy/0b372fc60cbe6a9f138841946652d30c">
 <img src="https://github-readme-stats.vercel.app/api/gist?id=0b372fc60cbe6a9f138841946652d30c" alt="Playmode toggle"/>
 </a>
 
@@ -70,26 +70,21 @@ Hi I'm Yidi, a student at Aalto University Game Department.
 
 <a href="https://gist.github.com/Maoyeedy/3fce9550261e088d2c736b1d13954718">
 <img src="https://github-readme-stats.vercel.app/api/gist?id=3fce9550261e088d2c736b1d13954718" alt="Unity Doc Redirect"/>
-</a>
-
-111
-
+</a> -->
 
 <div>
 
 <a href="https://gist.github.com/Maoyeedy/a8d66b314dfe671a6a9336eb4a2d15ef">
-<img align=center src="https://github-readme-stats.vercel.app/api/gist?id=a8d66b314dfe671a6a9336eb4a2d15ef" alt="Camera Ambient Override"/>
+<img height=125 src="https://github-readme-stats.vercel.app/api/gist?id=a8d66b314dfe671a6a9336eb4a2d15ef" alt="Camera Ambient Override"/>
 </a>
 
 <a href="https://gist.github.com/Maoyeedy/6e16e18ee3d9b31d657a972e87c3debf">
-<img align=center src="https://github-readme-stats.vercel.app/api/gist?id=6e16e18ee3d9b31d657a972e87c3debf" alt="Screenshot"/>
+<img height=125 src="https://github-readme-stats.vercel.app/api/gist?id=6e16e18ee3d9b31d657a972e87c3debf" alt="Screenshot"/>
 </a>
 
 <a href="https://gist.github.com/Maoyeedy/6e16e18ee3d9b31d657a972e87c3debf">
-<img align=center src="https://github-readme-stats.vercel.app/api/gist?id=6e16e18ee3d9b31d657a972e87c3debf" alt="Screenshot"/>
+<img height=125 src="https://github-readme-stats.vercel.app/api/gist?id=6e16e18ee3d9b31d657a972e87c3debf" alt="Screenshot"/>
 </a>
-
-
 
 </div>
 
