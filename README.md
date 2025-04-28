@@ -4,6 +4,9 @@ Hi I'm Yidi, a student at Aalto University Game Department.
 
 [Here's my recent works overview!](https://maoyeedy.notion.site/Yidi-Mao-recent-works-overview-1e2ff91211db80849514c33400ccf5c7?pvs=4)
 
+
+<!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
+
 <!-- <img src="metrics.svg" width="50%" > -->
 <table>
   <tr>
@@ -33,6 +36,22 @@ Hi I'm Yidi, a student at Aalto University Game Department.
   </tr> -->
 </table>
 
-<!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maoyeedy&langs_count=6&layout=compact) -->
+<table width="100%">
+  <tbody>
+    <tr>
+      <td><a href="https://gist.github.com/Maoyeedy/0b372fc60cbe6a9f138841946652d30c"><img src="https://github-readme-stats.vercel.app/api/gist?id=0b372fc60cbe6a9f138841946652d30c" alt="Gist Card"/></a></td>
+      <td><a href="https://gist.github.com/Maoyeedy/48745760573afe5ceadc068fc3a37ecb"><img src="https://github-readme-stats.vercel.app/api/gist?id=48745760573afe5ceadc068fc3a37ecb" alt="Gist Card"/></a></td>
+      <td><a href="https://gist.github.com/Maoyeedy/a8d66b314dfe671a6a9336eb4a2d15ef"><img src="https://github-readme-stats.vercel.app/api/gist?id=a8d66b314dfe671a6a9336eb4a2d15ef" alt="Gist Card"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://gist.github.com/Maoyeedy/6e16e18ee3d9b31d657a972e87c3debf"><img src="https://github-readme-stats.vercel.app/api/gist?id=6e16e18ee3d9b31d657a972e87c3debf" alt="Gist Card"/></a></td>
+      <td><a href="https://gist.com/Maoyeedy/77551790e17397090b7268795654d3cf"><img src="https://github-readme-stats.vercel.app/api/gist?id=77551790e17397090b7268795654d3cf" alt="Gist Card"/></a></td>
+      <td><a href="https://gist.github.com/Maoyeedy/756d993b533e50265df4b581b238a39f"><img src="https://github-readme-stats.vercel.app/api/gist?id=756d993b533e50265df4b581b238a39f" alt="Gist Card"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://gist.github.com/Maoyeedy/f2e480747cb9a583de471cae4bf2bbf5"><img src="https://github-readme-stats.vercel.app/api/gist?id=f2e480747cb9a583de471cae4bf2bbf5" alt="Gist Card"/></a></td>
+      <td><a href="https://gist.github.com/Maoyeedy/3fce9550261e088d2c736b1d13954718"><img src="https://github-readme-stats.vercel.app/api/gist?id=3fce9550261e088d2c736b1d13954718" alt="Gist Card"/></a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
