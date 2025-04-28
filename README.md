@@ -8,7 +8,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
 <!-- ![Maoyeedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoyeedy&custom_title=Github%20Stats&hide_rank=true&text_bold=false) -->
 
 <!-- <img src="metrics.svg" width="50%" > -->
-<table>
+<table style="background: #FFFFFF">
   <tr>
     <td>
       <a href="">
