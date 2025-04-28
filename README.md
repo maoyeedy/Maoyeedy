@@ -60,7 +60,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
             </a>
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>
             <b>Asset Processing</b>
         </td>
@@ -79,7 +79,7 @@ Hi I'm Yidi, a student at Aalto University Game Department.
                     alt="Mixamo Renamer" />
             </a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>
             <b>Userscripts</b>
