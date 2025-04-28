@@ -80,26 +80,6 @@ Hi I'm Yidi, a student at Aalto University Game Department.
 <img src="https://github-readme-stats.vercel.app/api/gist?id=77551790e17397090b7268795654d3cf&hide_border=true" alt="Hide Meta Files"/></a>
     </td>
     <td>
-<a href="https://gist.github.com/Maoyeedy/77551790e17397090b7268795654d3cf">
-<img src="https://github-readme-stats.vercel.app/api/gist?id=77551790e17397090b7268795654d3cf&hide_border=true" alt="Hide Meta Files"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-    <b>Asset Processing</b>
-    </td>
-    <td>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-<a href="https://gist.github.com/Maoyeedy/77551790e17397090b7268795654d3cf">
-<img src="https://github-readme-stats.vercel.app/api/gist?id=77551790e17397090b7268795654d3cf&hide_border=true" alt="Hide Meta Files"/></a>
-    </td>
-    <td>
 <a href="https://gist.github.com/Maoyeedy/756d993b533e50265df4b581b238a39f">
 <img src="https://github-readme-stats.vercel.app/api/gist?id=756d993b533e50265df4b581b238a39f&hide_border=true" alt="Mixamo Renamer"/></a>
     </td>
