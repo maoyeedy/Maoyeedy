@@ -1,0 +1,92 @@
+name: Profile Cards
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      # 3D isometric contribution calendar -> profile-3d-contrib/*.svg
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: custom_title=Github Stats&hide_rank=true&show_icons=true&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # Self-hosted Wakapi; public stats endpoint, no API key needed.
+      - name: Wakapi card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: username=Yidi&api_domain=maoyeedy.com&custom_title=Wakapi Weekly Stats&hide=unknown,reg,asmdef&langs_count=10&layout=compact&hide_border=true
+          path: profile/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Gist cards
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: gist
+          options: id=0b372fc60cbe6a9f138841946652d30c&hide_border=true
+          path: profile/gist-playmode-toggle.svg
+          token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: gist
+          options: id=48745760573afe5ceadc068fc3a37ecb&hide_border=true
+          path: profile/gist-scene-autosave.svg
+          token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: gist
+          options: id=a8d66b314dfe671a6a9336eb4a2d15ef&hide_border=true
+          path: profile/gist-camera-ambient-override.svg
+          token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: gist
+          options: id=6e16e18ee3d9b31d657a972e87c3debf&hide_border=true
+          path: profile/gist-screenshot.svg
+          token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: gist
+          options: id=f2e480747cb9a583de471cae4bf2bbf5&hide_border=true
+          path: profile/gist-unity-doc-highlight.svg
+          token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: gist
+          options: id=3fce9550261e088d2c736b1d13954718&hide_border=true
+          path: profile/gist-unity-doc-redirect.svg
+          token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile profile-3d-contrib
+          git commit -m "chore: update profile cards [skip ci]" || exit 0
+          git pull --rebase
+          git push
