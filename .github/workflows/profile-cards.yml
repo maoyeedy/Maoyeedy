@@ -46,6 +46,7 @@ jobs:
           path: profile/gist-playmode-toggle.svg
           token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+        continue-on-error: true
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: gist
@@ -53,6 +54,7 @@ jobs:
           path: profile/gist-scene-autosave.svg
           token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+        continue-on-error: true
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: gist
@@ -60,6 +62,7 @@ jobs:
           path: profile/gist-camera-ambient-override.svg
           token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+        continue-on-error: true
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: gist
@@ -67,6 +70,7 @@ jobs:
           path: profile/gist-screenshot.svg
           token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+        continue-on-error: true
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: gist
@@ -74,6 +78,7 @@ jobs:
           path: profile/gist-unity-doc-highlight.svg
           token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+        continue-on-error: true
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: gist
@@ -81,6 +86,7 @@ jobs:
           path: profile/gist-unity-doc-redirect.svg
           token: ${{ secrets.GIST_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+        continue-on-error: true
 
       - name: Commit cards
         run: |
